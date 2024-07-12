@@ -1,5 +1,5 @@
-Jira Comment Sentiment Analysis with AWS Comprehend 
-
+**Jira Comment Sentiment Analysis with AWS Comprehend 
+**
   
 
 This repository contains a Lambda function designed to perform sentiment analysis on comments made on Jira tickets. The function leverages AWS Comprehend for sentiment analysis and is triggered by events forwarded from Jira automation rules to an API endpoint. 
